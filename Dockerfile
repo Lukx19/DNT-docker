@@ -24,6 +24,7 @@ RUN apt-get update && apt-get install -y \
         clang \
         doxygen \
         gdb \
+        mc \
         qt5-default \
         libjpeg-turbo8-dev \
         avahi-discover \
