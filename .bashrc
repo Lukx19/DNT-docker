@@ -1,0 +1,5 @@
+export DNT_ROOT="/home/dnt/repo/DNT2017"
+alias robocopy="$DNT_ROOT/util/scripts/robocopy"
+alias dnt="cd $DNT_ROOT"
+alias dmake="$DNT_ROOT/util/scripts/dmake"
+source "$DNT_ROOT/util/scripts/dnt.bashrc"
