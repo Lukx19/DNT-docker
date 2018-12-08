@@ -23,6 +23,7 @@ RUN apt-get update && apt-get install -y \
         clang-3.8 \
         clang \
         doxygen \
+        gdb \
         qt5-default \
         libjpeg-turbo8-dev \
         avahi-discover \
